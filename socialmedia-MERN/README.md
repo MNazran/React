@@ -1,3 +1,3 @@
 <h1>Social Media App</h1>
-Fullstack MERN React Responsive Social Media Application.
+A Responsive Social Media Application using MERN Fullstack framework.
 Node.js, MongoDB, Redux.
