@@ -1,7 +1,7 @@
 <h1>React Travel and Tour Website</h1>
 This is a responsive travel and tour website built using React. It incorporates various features and libraries such as Hooks, Aos Library (Animation), React-Icons, and a video background.
 
-Features
+<h3>Features:</h3>
 * Hooks: The website utilizes React Hooks, which provide a way to use state and other React features without writing a class. This makes the code more concise and easier to understand.
 
 * Aos Library: Aos (Animate On Scroll) Library is used to add smooth animations to the website elements as they come into view. It enhances the user experience by providing visually appealing transitions.
