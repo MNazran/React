@@ -24,7 +24,7 @@ To run the React Travel and Tour Website locally, follow these steps:
   <li>Navigate to the project directory:</li>
   
 ```
-  cd react/travel
+  cd React/travel
 ```
   
   <li>Install the dependencies:</li>
