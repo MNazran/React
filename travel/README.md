@@ -12,4 +12,6 @@ This is a responsive travel and tour website built using React. It incorporates 
 * Video Background: The website includes a captivating video background that grabs the attention of visitors and creates an immersive experience. It enhances the visual appeal and creates a dynamic atmosphere.
 
 <h3>Installation:</h3>
-To run the React Travel and Tour Website locally, follow these steps:
+<ol type=1>
+  <li>To run the React Travel and Tour Website locally, follow these steps:</li>
+</ol>
