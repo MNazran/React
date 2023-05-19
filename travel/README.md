@@ -12,22 +12,35 @@ This is a responsive travel and tour website built using React. It incorporates 
 * Video Background: The website includes a captivating video background that grabs the attention of visitors and creates an immersive experience. It enhances the visual appeal and creates a dynamic atmosphere.
 
 <h3>Installation:</h3>
-<ol type=1>
 To run the React Travel and Tour Website locally, follow these steps:
+<ol type=1>
+  
   <li>Clone the repository:</li>
   
 ```
   git clone https://github.com/MNazran/React.git
 ```
+  
   <li>Navigate to the project directory:</li>
   
 ```
-  cd react-travel-tour-website
+  cd react/travel
 ```
   
   <li>Install the dependencies:</li>
+  
+```
+  npm install
+```
+  
   <li>Start the development server:</li>
-  <li>Open the website in your browser:</li>
+  
+```
+  npm start
+```
+  
+  <li>Open the website in your browser</li>
+
 </ol>
 
 <h3>Contributing:</h3>
