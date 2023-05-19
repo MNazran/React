@@ -13,5 +13,16 @@ This is a responsive travel and tour website built using React. It incorporates 
 
 <h3>Installation:</h3>
 <ol type=1>
-  <li>To run the React Travel and Tour Website locally, follow these steps:</li>
+To run the React Travel and Tour Website locally, follow these steps:
+  <li>Clone the repository:</li>
+  
+```
+  git clone https://github.com/your-username/react-travel-tour-website.git
+```
+  <li>Navigate to the project directory:</li>
+  
+```
+  cd react-travel-tour-website
+
+```
 </ol>
