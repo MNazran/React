@@ -17,12 +17,18 @@ To run the React Travel and Tour Website locally, follow these steps:
   <li>Clone the repository:</li>
   
 ```
-  git clone https://github.com/your-username/react-travel-tour-website.git
+  git clone https://github.com/MNazran/React.git
 ```
   <li>Navigate to the project directory:</li>
   
 ```
   cd react-travel-tour-website
-
 ```
+  
+  <li>Install the dependencies:</li>
+  <li>Start the development server:</li>
+  <li>Open the website in your browser:</li>
 </ol>
+
+<h3>Contributing:</h3>
+Contributions are welcome! If you find any bugs or have suggestions for additional features, please create an issue or submit a pull request.
