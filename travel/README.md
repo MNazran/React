@@ -10,3 +10,6 @@ This is a responsive travel and tour website built using React. It incorporates 
 * React-Icons: React-Icons library is employed to incorporate a wide range of icons into the website. These icons add visual cues and improve the overall design and usability.
 
 * Video Background: The website includes a captivating video background that grabs the attention of visitors and creates an immersive experience. It enhances the visual appeal and creates a dynamic atmosphere.
+
+<h3>Installation:</h3>
+To run the React Travel and Tour Website locally, follow these steps:
