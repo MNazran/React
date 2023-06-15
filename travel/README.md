@@ -45,3 +45,8 @@ To run the React Travel and Tour Website locally, follow these steps:
 
 <h3>Contributing:</h3>
 Contributions are welcome! If you find any bugs or have suggestions for additional features, please create an issue or submit a pull request.
+<br/><br/>
+
+<p align="center">
+  <img src="https://github.com/MNazran/React/assets/121558403/f482aae0-1ac9-4960-8598-410f3401ed91" alt="Image" width="500">
+</p>
