@@ -9,6 +9,7 @@ Throughout this collection, you will find projects that utilize a variety of fra
 * Styled Components: A CSS-in-JS library for styling React components.
 * Axios: A library for making HTTP requests from the browser or Node.js.
 * Context API: A React built-in feature that help  “teleport” data to the components that need it without passing props.
+* Tailwind etc..
 
 
 By incorporating these frameworks and tools, I aimed to expand my knowledge and proficiency in React development while exploring different aspects of building robust and efficient web applications. Feel free to explore each project to see how these frameworks and tools have been utilized to achieve specific functionalities and enhance the overall user experience.
