@@ -32,43 +32,24 @@ const Countdown = () => {
 
   return (
     <div className='countdown'>
-      <h2>Countdown</h2>
+      <h2>
+        Countdown to <span style={{ color: '#144b40' }}>2026</span>
+      </h2>
       <div className='content'>
-        <div className='box'>
-          <div className='value'>
-            <span>{remainingTime.days}</span>
-          </div>
-          <div className='label'>
-            <span>Days</span>
-          </div>
-        </div>
-
-        <div className='box'>
-          <div className='value'>
-            <span>{remainingTime.hours}</span>
-          </div>
-          <div className='label'>
-            <span>Hours</span>
-          </div>
-        </div>
-
-        <div className='box'>
-          <div className='value'>
-            <span>{remainingTime.minutes}</span>
-          </div>
-          <div className='label'>
-            <span>Minutes</span>
-          </div>
-        </div>
-
-        <div className='box'>
-          <div className='value'>
-            <span>{remainingTime.seconds}</span>
-          </div>
-          <div className='label'>
-            <span>Seconds</span>
-          </div>
-        </div>
+        {Object.entries(remainingTime).map((el) => {
+          const label = el[0];
+          const value = el[1];
+          return (
+            <div className='box' key={label}>
+              <div className='value'>
+                <span>{value}</span>
+              </div>
+              <div className='label'>
+                <span>{label}</span>
+              </div>
+            </div>
+          );
+        })}
       </div>
     </div>
   );
