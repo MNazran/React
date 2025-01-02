@@ -17,4 +17,9 @@ The primary purpose of this project is to:
 * CSS: For styling and responsive layout.
 * JavaScript: For logic and functionality.
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
+<p align='center'>
+ <img src="https://github.com/user-attachments/assets/c335accc-0ddb-4b38-bc11-85bd1c6f0115" alt="Image" width="500">
+</p>
+
+ 
