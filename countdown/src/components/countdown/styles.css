@@ -72,6 +72,10 @@
 } */
 
 @media screen and (max-width: 550px) {
+  .countdown h2 {
+    font-size: 30px;
+    margin-bottom: 50px;
+  }
   .countdown .value {
     font-size: 30px;
     width: 80px;
