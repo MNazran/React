@@ -1,0 +1,6 @@
+nextjs-ecommerce/node_modules/
+nextjs-ecommerce/.next/
+nextjs-ecommerce/.env
+nextjs-ecommerce/.env.local
+nextjs-ecommerce/.env.production
+nextjs-ecommerce/package-lock.json
